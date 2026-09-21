@@ -1,0 +1,6 @@
+{
+  "name": "Flores Amarillas WhatsApp",
+  "description": "Paisaje interactivo de flores amarillas con frases alentadoras dinámicas al hacer clic y compartir por WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
